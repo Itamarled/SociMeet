@@ -7,7 +7,6 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -58,9 +57,6 @@ To-do list:
 * Add a friends list
 * Add an invite property, so a user can invite other users on his contact list \ friends list to an event  
 
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
 
 ## Contact
 Created by [@Yakir Zargon](https://github.com/yakirza12),[@Itamar Lederman](https://github.com/Itamarled),[@Shimi Nagar](https://github.com/Shimonna394)
