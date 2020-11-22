@@ -45,7 +45,7 @@ During this time, we as a society, have a hard time connecting to new people and
 5) Run main.dart
 
 ## Features
-List of features ready and TODOs for future development
+List of features 
 * Users can create their own events!
 * Users can join to events created by different users
 * Awesome feature 3
