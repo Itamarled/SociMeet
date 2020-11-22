@@ -16,17 +16,17 @@ You can use it to set up different kind of meetings with your friends or with pe
 During this time, we as a society, have a hard time connecting to new people and Sociemeet is a great platform to find this new connection, this new friend or even a group of friends which share the same interests as you! 
 
 ## Screenshots
-# Welcome to Socimeet!<br><br>
+### Welcome to Socimeet!<br><br>
 ![Example screenshot](soci_meet/assets/sign%20in.png)<br>
 
 ![Example screenshot](soci_meet/assets/sign%20up.png)<br>
-# HomePage<br><br>
+### HomePage<br><br>
 ![Example screenshot](soci_meet/assets/Home.png)<br>
-# General Parties Events<br><br>
+### General Parties Events<br><br>
 ![Example screenshot](soci_meet/assets/Parties%20events.png)<br>
-# Events Info<br><br>
+### Events Info<br><br>
 ![Example screenshot](soci_meet/assets/event%20info.png)<br>
-# Add OR update an event<br><br>
+### Add OR update an event<br><br>
 ![Example screenshot](soci_meet/assets/add%20event.png)<br>
 
 
