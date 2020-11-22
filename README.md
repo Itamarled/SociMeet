@@ -60,5 +60,3 @@ To-do list:
 
 ## Contact
 Created by [@Yakir Zargon](https://github.com/yakirza12),[@Itamar Lederman](https://github.com/Itamarled),[@Shimi Nagar](https://github.com/Shimonna394)
-## Contact
-Created by [@Yakir Zargon](https://github.com/yakirza12),[@Itamar Lederman](https://github.com/Itamarled),[@Shimi Nagar](https://github.com/Shimonna394)
