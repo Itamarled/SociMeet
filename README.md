@@ -39,6 +39,7 @@ During this time, we as a society, have a hard time connecting to new people and
 ## Setup
 1) Clone this repository
 2) Open android studio and set up your android emulator
+3) Set project structure use Android api platform 30
 3) Set flutter sdk path if needed
 4) run pub get commend if needed
 5) Run main.dart
