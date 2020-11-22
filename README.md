@@ -17,7 +17,7 @@ During this time, we as a society, have a hard time connecting to new people and
 
 ## Screenshots
 Welcome to Socimeet!<br>
-![Example screenshot](soci_meet)<br>
+![Example screenshot](soci_meet/assets/sign%20in.png)<br>
 
 ![Example screenshot](soci_meet/assets/sign%20up.png)<br>
 HomePage<br>
