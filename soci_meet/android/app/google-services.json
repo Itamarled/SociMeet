@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479120269941",
+    "firebase_url": "https://hackthonbgu.firebaseio.com",
+    "project_id": "hackthonbgu",
+    "storage_bucket": "hackthonbgu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479120269941:android:2266a8eb356cc0f4164e3c",
+        "android_client_info": {
+          "package_name": "com.example.socimeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479120269941-kok0rkvcacg4sb03dlguq47i988l2jgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWTFgTBvd6R7JltrDwQyst1sZMYoORPQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479120269941-kok0rkvcacg4sb03dlguq47i988l2jgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
