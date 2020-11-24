@@ -268,6 +268,13 @@
             </list>
           </value>
         </entry>
+        <entry key="select_form_field">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../src/flutter/.pub-cache/hosted/pub.dartlang.org/select_form_field-1.0.1/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="shared_preferences">
           <value>
             <list>
@@ -411,6 +418,7 @@
       <root url="file://$PROJECT_DIR$/../../src/flutter/.pub-cache/hosted/pub.dartlang.org/process-3.0.13/lib" />
       <root url="file://$PROJECT_DIR$/../../src/flutter/.pub-cache/hosted/pub.dartlang.org/provider-4.0.5+1/lib" />
       <root url="file://$PROJECT_DIR$/../../src/flutter/.pub-cache/hosted/pub.dartlang.org/quiver-2.0.5/lib" />
+      <root url="file://$PROJECT_DIR$/../../src/flutter/.pub-cache/hosted/pub.dartlang.org/select_form_field-1.0.1/lib" />
       <root url="file://$PROJECT_DIR$/../../src/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.10/lib" />
       <root url="file://$PROJECT_DIR$/../../src/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-0.0.2+2/lib" />
       <root url="file://$PROJECT_DIR$/../../src/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-0.0.1+10/lib" />

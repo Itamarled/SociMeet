@@ -44,6 +44,9 @@ During this time, we as a society, have a hard time connecting to new people and
 4) run pub get commend if needed
 5) Run main.dart
 
+Email: itamarled2@walla.com
+Password: 200113
+
 ## Features
 List of features 
 * Users can create their own events!
